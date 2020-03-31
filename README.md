@@ -5,4 +5,3 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-ba
 
 ### Requirements:
 Python 3.x
-Spacy
